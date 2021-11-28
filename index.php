@@ -362,12 +362,12 @@ body .entries .entry:nth-child(2n) .title.big:before {
       </a>
     </div><!-- end col-quarter -->
     <div class="col-quarter">
-      <a href="http://8rm.edsup.org/" title="" target="" rel="">
+      <a href="https://8rm.edsup.org/" title="" target="" rel="">
         8 riew model
       </a>
     </div><!-- end col-quarter -->
     <div class="col-quarter">
-      <a href="http://beehive.edsup.org/" title="" target="_blank" rel="">
+      <a href="https://beehive.edsup.org/" title="" target="_blank" rel="">
         Beehive
       </a>
     </div><!-- end col-quarter -->
@@ -377,7 +377,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
       </a>
     </div><!-- end col-quarter -->
     <div class="col-quarter">
-      <a href="http://sukho.edsup.org/" title="" target="_blank" rel="">
+      <a href="https://sukho.edsup.org/" title="" target="_blank" rel="">
         Sukho Computer
       </a>
     </div><!-- end col-quarter -->
@@ -387,7 +387,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
   <br />
 
   <p style="color: #aaa; font-weight: 300;">
-    &copy; <a href="http://www.edsup.org/">Edsup.org</a> <span>2014-</span><span id="footerYear"></span>. All rights reserved.
+    &copy; <a href="https://www.edsup.org/">Edsup.org</a> <span>2014-</span><span id="footerYear"></span>. All rights reserved.
   </p>
 
   <br />
